@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
-
+//methode1
 public class Main{
     public static void main(String[] args){
         //JFRAME IS A GUI WINDOW TO ADD COMPONENTS TO
@@ -19,14 +19,14 @@ public class Main{
         frame.getContentPane().setBackground(new Color(123,50,250));*/
 
 MyFrame myframe= new MyFrame();
-MyFrame jiji = new MyFrame();
+/*MyFrame jiji = new MyFrame();
     MyFrame kk= new MyFrame();
     MyFrame jj= new MyFrame();
         MyFrame j = new MyFrame();
         MyFrame l= new MyFrame();
         MyFrame jp = new MyFrame();
         MyFrame m= new MyFrame();
-        MyFrame ii = new MyFrame();
+        MyFrame ii = new MyFrame();*/
 
     }
 }
